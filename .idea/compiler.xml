@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kitty-admin" />
+        <module name="kitty-backup" />
+        <module name="kitty-common" />
+        <module name="kitty-config" />
+        <module name="kitty-consumer" />
+        <module name="kitty-core" />
+        <module name="kitty-hystrix" />
+        <module name="kitty-monitor" />
+        <module name="kitty-producer" />
+        <module name="kitty-producer2" />
+        <module name="kitty-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hentor-admin" target="1.8" />
+      <module name="kitty-admin" target="1.8" />
+      <module name="kitty-backup" target="1.8" />
+      <module name="kitty-common" target="1.8" />
+      <module name="kitty-config" target="1.8" />
+      <module name="kitty-consumer" target="1.8" />
+      <module name="kitty-core" target="1.8" />
+      <module name="kitty-hystrix" target="1.8" />
+      <module name="kitty-monitor" target="1.8" />
+      <module name="kitty-pom" target="1.8" />
+      <module name="kitty-producer" target="1.8" />
+      <module name="kitty-producer2" target="1.8" />
+      <module name="kitty-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
